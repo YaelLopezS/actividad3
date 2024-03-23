@@ -2,7 +2,7 @@
 
 # Actividad 3
 
-En este proyecto hace uso de la biblioteca turtle de python el cual es utilizado para el juego consiste en controlar a un personaje (Pacman) para recolectar puntos mientras evita a los fantasmas. A continuación se detalla más acerca de las funcionalidades que hace este codigo:
+En este proyecto hace uso de la biblioteca turtle de python el cual es utilizado para el juego consiste en controlar a un personaje (Pacman) para recolectar puntos mientras evita a los fantasmas. A continuación, se detalla más acerca de las funcionalidades que hace este código:
 
 ## Instrucciones del juego
 - Utiliza las teclas de dirección para mover a Pacman (derecha, izquierda, arriba, abajo)
@@ -16,11 +16,11 @@ En este proyecto hace uso de la biblioteca turtle de python el cual es utilizado
 - square(): Dibuja un cuadrado en una determinada posición.
 - valid(point): Verifica si una posición es válida en la matriz de tiles.
 - world(): Dibuja el mundo del juego utilizando la función square().
-- move(): Controla el movimiento de Pacman y los fantasmas, actualizando el puntaje y verificando colisiones.
+- move(): Controla el movimiento de Pacman y los fantasmas, actualizando sus posiciones en la pantalla y verificando las colisiones.
 - change(x, y): Cambia la dirección de movimiento de Pacman si es válida.
 
 ## Interacciones
 - El usuario podrá usar las teclas de movimiento para dirigirse a diferentes direcciones según el usuario lo deseé y/o necesite para evitar a los fantasmas.
 
 ## Autores
-- [@YaelLopezS](https://github.com/YaelLopezS)
+- [@Toromanu2429](https://github.com/ Toromanu2429)
